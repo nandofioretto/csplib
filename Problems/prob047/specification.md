@@ -5,7 +5,7 @@ Proposer:
     - Kenneth N. Brown
     - Mustafa Dogru
     - Ben Lowe
-Category: 
+Category: Distributed CSP/COP
 ---
 
 ### Overview
